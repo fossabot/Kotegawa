@@ -22,7 +22,7 @@ She is a high-strung girl, has a strong tsundere personality, and is very strict
 - kiss
 
 ## Command that need to import from previous bot
-- kusonime
+- kusonime (trouble with collector)
 - nhentai
 - osu
 - photo2x
