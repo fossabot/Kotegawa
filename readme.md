@@ -20,13 +20,12 @@ She is a high-strung girl, has a strong tsundere personality, and is very strict
 - covid
 - hug
 - kiss
-
-## Command that need to import from previous bot
-- kusonime (trouble with collector)
 - nhentai
-- osu
 - photo2x
 - rule34
+
+## Command that need to import from previous bot
+- kusonime (trouble with collector, fix it later)
 - saucenao
 - slap
 - toonify
