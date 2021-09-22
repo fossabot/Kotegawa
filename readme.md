@@ -7,31 +7,35 @@ Kotegawa Yui is a secondary female protagonist, who is in Rito's class throughou
 She is a high-strung girl, has a strong tsundere personality, and is very strict against improper behavior. Like most of the other girls in the series, she also becomes a love interest of Rito, although she is more reluctant to admit it to herself than most of them, due to her tsundere personality. 
 
 ## Currenly available command is
-- cry
-- wheater
-- animesearch
-- wiki
-- translate
-- aesthetic
-- ascii
-- bonk
-- coin
-- colorize
-- covid
-- hug
-- kiss
-- nhentai
-- photo2x
-- rule34
+- cry <k!cry>
+- wheater <k!weather location>
+- animesearch <k!anime name>
+- wiki <k!wiki name>
+- translate <k!tl id en what>
+- aesthetic <k!alay alay>
+- ascii <k!ascii heker>
+- bonk <k!bonk @orang>
+- coin <k!coin>
+- colorize <k!colorize attachment>
+- covid <k!covid>
+- hug <k!hug @orang>
+- kiss <k!kiss @orang>
+- nhentai <k!nh code>
+- photo2x <k!photo2x attachment>
+- rule34 <k!rule34>
+- saucenao <k!sauce attachment/url>
+- slap <k!slap @orang>
+- toonify <k!kartun attachment>
+- topanime <k!top>
+- waifu <k!waifu>
+- waifu2x <k!w2x attachment>
 
 ## Command that need to import from previous bot
 - kusonime (trouble with collector, fix it later)
-- saucenao
-- slap
-- toonify
-- topanime
-- waifu
-- waifu2x
+
+## Command that maybe i add later
+- music bot
+- valorant stat
 
 ## Config
 ``` json
