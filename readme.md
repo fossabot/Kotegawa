@@ -34,7 +34,6 @@ She is a high-strung girl, has a strong tsundere personality, and is very strict
 - kusonime (trouble with collector, fix it later)
 
 ## Command that maybe i add later
-- music bot
 - valorant stat
 
 ## Config
