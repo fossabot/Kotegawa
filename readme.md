@@ -1,4 +1,6 @@
 # Kotegawa Yui
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEilaluth%2FKotegawa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEilaluth%2FKotegawa?ref=badge_shield)
+
 
 <img src="https://raw.githubusercontent.com/Eilaluth/Eilaluth/main/img/kotegawa-rs.gif" width="160" align="right" />
 
@@ -63,3 +65,7 @@ root@kotegawayui:~$ node index.js
 - [Kiki-Af](https://github.com/kiki-af)
 - [Reynadi531](https://github.com/Reynadi531/api-covid19-indonesia-v2)
 - [exilvm](https://github.com/exilvm/sauceBot)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEilaluth%2FKotegawa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEilaluth%2FKotegawa?ref=badge_large)
